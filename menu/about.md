@@ -2,6 +2,9 @@
 layout: page
 title: About
 ---
+
+**FIND OUT MORE ABOUT THE WEBSITE / BLOG POST**
+
 Find out more about Marko.
 
 ![Marko](../assets/img/markosrsan.jpg){:class="img-responsive"}

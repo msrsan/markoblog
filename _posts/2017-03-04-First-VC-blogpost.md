@@ -6,4 +6,3 @@ categories: startup
 tags: [documentation,sample]
 image: cutting.jpg
 ---
-
