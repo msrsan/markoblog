@@ -1,16 +1,9 @@
 ---
 layout: post
 title: "Greatest Vines of 2013"
-date: '2013-08-11T18:33:00+01:00'
-tags:
-- vine
-- complilation
-- bestoftheyear
-- '2013'
-- video
-- hilarious
-- awesome
-image: newcomposegmail0.png
+author: "Marko Srsan"
+categories: random
+tags: [Vine,video,fun]
 youtubeId: TJI8SE7mjUI
 tumblr_url: http://msrsan.tumblr.com/post/58001606982/greatest-vines-of-2013
 ---
@@ -26,3 +19,7 @@ Well, this awesome guy Eris S (his first upload was taken down) made a compilat
 The main reason is that the intensity of humor and the frequency of the good jokes - every 6 seconds - make this video awesome! Other videos, other compilations are not that intense, their “peak” moments come and go every 30s, maybe more, they have their own themes, their own background and flow, while this one has its own theme every 6 seconds; every 6 seconds new characters take the stage with a new “story” that is really well thought through, with a point. Something completely different.
 
 Anyway, sit back, watch it and enjoy! 
+
+--
+
+[Original post on Tumblr](http://msrsan.tumblr.com/post/58001606982/greatest-vines-of-2013)

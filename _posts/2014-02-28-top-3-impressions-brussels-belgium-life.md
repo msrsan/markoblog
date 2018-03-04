@@ -3,8 +3,8 @@ layout: post
 title: "Top 3 Impressions on Belgium life"
 author: "Marko Srsan"
 categories: random
-tags: [Brussels, Belgium]
-image: forest.jpg
+tags: [Brussels,Belgium,life]
+image: bruxelles.jpg
 tumblr_url: http://msrsan.tumblr.com/post/78096313746/top-3-impressions-brussels
 ---
 
@@ -31,3 +31,7 @@ Student life is nice, everyone knows that and everyone wants to go back to their
 But, that’s theory. In practice, for 5 euros you get a whole menu (a soup, main meal, side dish, salad, desert) from whichever “type” of food you like. To give an example, you can get a tomato soup, spare ribs (2 times 5 ribs) with a spicy sauce and a Mexican salad along with either rice or french fries and a dessert (pudding, fruit, whatever). For 5 euros. And no - it doesn’t taste like 5 euro food - it fast extraordinary. Awesome. Great. Tasty and delicious. Just look at the pictures. There are some nice student restaurants in Croatia, but nothing like this. I’m gonna definitely be spending my lunches there :D  
 
 Well .. that’s it for now. Those are the things that were noticed almost immediately during this last month. So, use Belgium transport regularly, don’t be scared you’ll be hit by a car (you won’t), mind the wind and eat in the VUB student restaurant! :D
+
+--
+
+[Original post on Tumblr](http://msrsan.tumblr.com/post/78096313746/top-3-impressions-brussels)

@@ -17,3 +17,7 @@ Fundraising is hard for anybody and obtaining capital is especially hard for the
 Apart from that, companies have been allowed to raise funds from only accredited investors. Accredited investors are people of a certain net worth or certain income per year. The number of those investors is limited ([report](https://www.gao.gov/assets/660/655963.pdf) by the Government Accountability Office says there’s “only” 8.5 million accredited investors in the States) so the supply is scarce, making the whole fundraising process really competitive among startups. 
 
 Even though some questions and details are left open and uncertain, since of 2 weeks ago, the ban of general solicitation went away so startups and other early stage companies are allowed to publicly raise capital using Facebook, Twitter, AngelList or any other platform to inform potential investors. The other ban of accredited investors stays and it’s expected to be lifted next year. Effectively, that means that we’re currently in a transition - a period when startup founders can publicly solicit and therefore reach a broader audience of potential investors but only accept investments from accredited investors in the same time. And that’s a big thing for startups because more deals will be made and the amounts of the deals can potentially be bigger.
+
+--
+
+[Original post on Tumblr](http://msrsan.tumblr.com/post/63365612003/jobs-act-change-vc-world-part-i)

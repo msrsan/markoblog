@@ -22,7 +22,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Marko Srsan'
 description:	       ' .. .. .. per aspera ad astra'
-author:              'Marko Srsan'
+author:                'Marko Srsan'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

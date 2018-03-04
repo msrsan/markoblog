@@ -32,3 +32,7 @@ PS - This is definitely not the “Bring the old Facebook back” kind of post. 
 PS II - Million dollar question - How can I “Discard” a message from a new compose window? I can minimize it, I can send it, I “can” add an attachment (if I really try), but how can I discard/cancel it? If After already filling in TO and SUBJECT fields, I suddenly change my mind and don’t want to send the email at all (I want to discard it, cancel it, trash it) and the “X” at the up-right of the compose window will not discard it - it will still be saved in my drafts. 
 
 EDIT - Found it! It was in the “trash can” (where usually a delete option is).
+
+--
+
+[Original post on Tumblr](http://msrsan.tumblr.com/post/58186972563/new-compose-gmail-is-here-to-stay)
