@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [Techstars,Application,Startups]
 image: applyingtotechstars_1.jpeg
-imagehome: 
+imagehome: applyingtotechstars_1.jpeg
 description: With thousands of companies applying to the program each year, here is the story from 4 of Techstars London alumni.
 Medium URL: https://medium.com/@msrsan/applying-to-techstars-london-the-inside-story-from-osper-lingvist-geospock-and-teskalabs-f7db229f1d91
 ---
