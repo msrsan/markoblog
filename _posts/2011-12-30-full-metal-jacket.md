@@ -4,7 +4,9 @@ title: "Full Metal Jacket"
 author: "Marko Srsan"
 categories: random
 tags: [movie,recommendation,fullmetaljacket]
-image: 
+image: fullmetaljacket.jpg
+imagehome: 
+description: Stanley Cubrick shows a double-sided story about war and preparation for it.
 tumblr_url: http://msrsan.tumblr.com/post/15022592296/fullmetaljacket
 ---
 Last night I was at my friend’s house and between several movies available to watch, we chose Full Metal Jacket. Even though this movie is quite old and very recognizable, I have never seen it to the end. I have watched it a couple of dozen times till yesterday, but I kept shutting the movie down after the first part - the training on the Island. After the shooting scene in the Head, ti was just to damn nasty to carry on. But, yesterday I finally did and I have to say - it was worth it.
@@ -17,7 +19,7 @@ Even though there are a number of other thoughts I could share today (about the 
 
 All in all, Full Metal Jacket is brilliant, through the humorous first half and the depiction of Marine training and high class discipline to the second half of just meaningless slaughter and description of just pointless war. It’s a must-watch for anyone and I recommend it fully! 
 
-PS - There are a number of analysis on the movie, I like this one so be my guest and read it. :)
+PS - There are a number of analysis on the movie, I like this [one](http://www.nytimes.com/movie/review?res=9B0DE6DB133BF935A15755C0A961948260) so be my guest and read it. :)
 
 --
 

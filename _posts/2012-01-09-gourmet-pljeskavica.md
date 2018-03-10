@@ -4,7 +4,9 @@ title: "Gourmet pljeskavica"
 author: "Marko Srsan"
 categories: random
 tags: [Croatian,food,burger]
-image: 
+image: gourmetpljeskavica.jpg
+imagehome: 
+description: Gourmet pljeskavica - one of my favourite meat dishes.
 tumblr_url: http://msrsan.tumblr.com/post/15562297587/gourmet-pljeskavica
 ---
 What you see and drool in front of you is called “gurmanska pljeskavica” or in the words of the true Englishman - “gourmet burger extra large”. To be precise, you can see three pieces. 

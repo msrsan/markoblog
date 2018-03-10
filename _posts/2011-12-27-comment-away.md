@@ -4,7 +4,9 @@ title: "Comment Away"
 author: "Marko Srsan"
 categories: productivity
 tags: [comments,productivity,website]
-image: 
+image:
+imagehome: 
+description: Let's get the trolls involved.
 tumblr_url: http://msrsan.tumblr.com/post/14862985994/comment-away
 ---
 After these two posts something was missing. The social interaction. 

@@ -58,7 +58,7 @@ a:hover {
 }
 
 img {
-  max-width: 100%;
+  max-width: 615px;
   height: auto;
   border-radius: 5px;
 }
@@ -130,9 +130,12 @@ hr {
 }
 
 .thumbnail-container img{
-  margin-top: -11.5%;
-  margin-bottom: -11.5%;
+  width: 615px;
+  height: 150px;
+  /* margin-top: -11.5%;
+  margin-bottom: -11.5%;*/
 }
+
 
 /*
   Post

@@ -4,16 +4,18 @@ title: "How I Got Accepted To Techstars London (For The Associate Role)"
 author: "Marko Srsan"
 categories: startup
 tags: [Techstars,Associate,VC]
-image: 
+image: howIgotacceptedintotechstars.png
+imagehome: 
+description: Finally, I am in. Read the inside story about how I got accepted to be a part Techstars London 2014 Winter class.
 Medium URL: https://medium.com/@msrsan/how-i-got-accepted-to-techstars-london-40f27b325e29
 ---
-It’s been more than two months since I arrived to London to work as a Techstars Associate in the Winter 2014 cohort, in one of the best startup accelerators out there. At least once every week since, I have been asked the same question: ”how did you get accepted, what did it take you to work at Techstars, how did you end up working there?”
+It’s been more than two months since I arrived to London to work as a Techstars Associate in the Winter 2014 cohort, in one of the best startup accelerators out there. At least once every week since, I have been asked the same question: *”how did you get accepted, what did it take you to work at Techstars, how did you end up working there?”*
 
 Well, in short — two years, luck and persistence.
 
 ---
 
-TL;DR
+**TL;DR**
 
 It took me two years of events, networking, meeting people, being a part of the community, reaching out, planning far ahead, connecting the dots and seizing opportunities while being on the lookout for new ones and tackling the enormously high administrative barriers.
 
@@ -27,7 +29,7 @@ Seize opportunities, ask if you can help and make yourself useful in projects su
 
 --
 
-*FULL VERSION*
+**FULL VERSION**
 
 When I think about it, a series of events took place over the last three to four years that led from one to another. Something like a big pack of dominoes, falling one after another, opening the other door and pushing it further. I’ll briefly go through those events.
 
@@ -35,7 +37,7 @@ It all started roughly three years ago when I started blogging for [Netokracija]
 
 Being a blogger back then gave me the opportunity to participate in the organisation of the [Seedcamp event](http://msrsan.tumblr.com/post/25356457464/seedcamp-zagreb-2012) in Zagreb where I basically met the whole startup scene from the region, the founders, the investors, the media.
 
-Having participated in the organisation of the Seedcamp event gave me the opportunity to participate in the organisation of the [Geeks On A Plane](http://geeksonaplane.com/destinations/2012-destinations/eastern-europe-2012/zagre/) event when [Dave McClure and his Geeks arrived to Zagreb](http://msrsan.tumblr.com/post/25155626467/goap-croatia), the opportunity to participate in the initial activities and the recruiting process for [Zagreb Entrepreneurship Incubator](http://zipzg.com/), the first coworking and incubator space in Croatia, and the opportunity to organise some awesome events for Netokracija ( [OMGCommerce](http://www.netokracija.com/events/omgcommerce2013/) 2013. and [Rock Paper Startups 2013.](http://www.netokracija.com/events/rockpaperstartups2013/)).
+Having participated in the organisation of the Seedcamp event gave me the opportunity to participate in the organisation of the [Geeks On A Plane](http://geeksonaplane.com/destinations/2012-destinations/eastern-europe-2012/zagre/) event when [Dave McClure and his Geeks arrived to Zagreb](http://msrsan.tumblr.com/post/25155626467/goap-croatia), the opportunity to participate in the initial activities and the recruiting process for [Zagreb Entrepreneurship Incubator](http://zipzg.com/), the first coworking and incubator space in Croatia, and the opportunity to organise some awesome events for Netokracija ([OMGCommerce](http://www.netokracija.com/events/omgcommerce2013/) 2013. and [Rock Paper Startups 2013.](http://www.netokracija.com/events/rockpaperstartups2013/)).
 
 In the meantime, I co-founded [TimePrep](http://www.timeprep.me/) (an iOS time management app for CFA candidates), ran a student organisation specialised in [Finance](http://finance.hr/), was a Microsoft Student Partner and studied on two Faculties.
 
