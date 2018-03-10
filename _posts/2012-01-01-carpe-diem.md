@@ -4,9 +4,7 @@ title: "Carpe Diem"
 author: "Marko Srsan"
 categories: random
 tags: [NewYear,carpediem,joke]
-image: carpediem.gif
-imagehome: 
-description: 2012 is here. Make the most of it!
+image: 
 tumblr_url: http://msrsan.tumblr.com/post/15126135679/carpe-diem
 ---
 So, the long awaited year has finally come. People are celebrating, everyone is happy, the joy is everywhere. Well, almost everywhere. On the other side, I cannot not mention the most talked about issue of the year to come. 
@@ -19,7 +17,7 @@ I am sure about one thing though - I am going to try to live this year as if the
 
 Carpe diem! 
 
-PS - One thing that really amuses me are the jokes about the whole thing. You can find them all over the internet. One of the best explanations of the 2012 destruction-to-be is this [one](https://www.youtube.com/watch?v=kcc_KAhwpa0). Enjoy!
+PS - One thing that really amuses me are the jokes about the whole thing. You can find them all over the internet. One of the best explanations of the 2012 destruction-to-be is this one. Enjoy!
 
 --
 

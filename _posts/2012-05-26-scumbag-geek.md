@@ -5,18 +5,15 @@ author: "Marko Srsan"
 categories: random
 tags: [Marko,photo,cool]
 image: scumbaggeek.jpg
-imagehome: 
-youtubeId: SKWfnO7fhQM
-description: Not much to say here. A photo of a geek.
 tumblr_url: http://msrsan.tumblr.com/post/23794432495/scumbag-geek
 ---
-On my side.
+… On my side :)
 
-{% include youtubePlayer.html id=page.youtubeId %}
+http://www.youtube.com/watch?v=SKWfnO7fhQM
 
---
+—-Picture Copyright © Marina Filipovic Marinshe
 
-*Picture Copyright © Marina Filipovic Marinshe; All Rights Reserved - for more check her [web site](http://www.marinshe.com/). You guessed rigth - effects are my own :)*
+All Rights ReservedFor more check her web site:http://www.marinshe.com/You guessed rigth - effects are my own :)
 
 --
 

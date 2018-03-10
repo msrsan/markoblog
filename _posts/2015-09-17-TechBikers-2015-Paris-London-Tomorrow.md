@@ -4,9 +4,7 @@ title: "TechBikers 2015 (Paris - London) - Tomorrow"
 author: "Marko Srsan"
 categories: random
 tags: [TechBikers,cycling,charity]
-image: techbikers3_1.jpg
-imagehome: 
-description: Tomorrow is a big day - I finally embark on the Paris to London bike ride with Techbikers.
+image: 
 Medium URL: https://medium.com/@msrsan/techbikers-2015-paris-london-tomorrow-fed1ace0cd9b
 ---
 Tomorrow is the day to ride.
@@ -15,15 +13,15 @@ Anyone who has done a long-distance ride knows how difficult it is to organise t
 
 The Paris — London ride is split into three days: Friday, Saturday and Sunday. We meet tomorrow morning at St. Pancras station, take the Eurostar to Paris where we gather at the Eiffel Tower to collect the bikes and take a group photo. After that, [the fun begins](https://medium.com/@msrsan/techbikers-2015-paris-london-am-i-ready-e2b0c09fc14).
 
-![route](../assets/img/techbikers3_2.png){:class="img-responsive"}
+*The route.*
 
 The route divided into days looks like this:
 
-- Friday: Paris-Vernon => 90 km (route)
+Friday: Paris-Vernon => 90 km (route)
 
-- Saturday: Vernon-Dieppe => 118 km (route)
+Saturday: Vernon-Dieppe => 118 km (route)
 
-- Sunday: Newhaven-London => 96 km (route)
+Sunday: Newhaven-London => 96 km (route)
 
 On the other hand, the thing that we don’t have control over is the weather. Apparently, it’ll rain tomorrow and we’ll have a wet start in Paris, but it will clear up on Saturday and Sunday. One has to be careful on the slippery roads.
 

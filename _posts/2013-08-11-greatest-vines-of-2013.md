@@ -4,9 +4,6 @@ title: "Greatest Vines of 2013"
 author: "Marko Srsan"
 categories: random
 tags: [Vine,video,fun]
-image: 
-imagehome: 
-description: 6 second videos with deep context and cultural familiarity have become popular - here are the top ones from 2013.
 youtubeId: TJI8SE7mjUI
 tumblr_url: http://msrsan.tumblr.com/post/58001606982/greatest-vines-of-2013
 ---

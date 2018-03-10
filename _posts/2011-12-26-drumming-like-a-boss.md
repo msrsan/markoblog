@@ -4,9 +4,7 @@ title: "Drumming Like A Boss"
 author: "Marko Srsan"
 categories: random
 tags: [music,drumms,army]
-image: drumming.jpg
-imagehome: drumming.jpg
-description: Drumming, releasing the energy and blasting cannot be more satisfying then when you are surrounded by war.
+image: 
 tumblr_url: http://msrsan.tumblr.com/post/14816678086/drumming-like-a-boss
 ---
 Yesterday I came across this picture of a man not giving a damn and enjoying his music in the middle of nowhere. He is just sitting there, holding his sticks and rocking away that drum roll.

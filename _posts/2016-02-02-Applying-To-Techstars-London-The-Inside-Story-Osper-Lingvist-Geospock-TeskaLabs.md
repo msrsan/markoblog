@@ -4,9 +4,7 @@ title: "Applying To Techstars London: the inside story from Osper, Lingvist, Geo
 author: "Marko Srsan"
 categories: startup
 tags: [Techstars,Application,Startups]
-image: applyingtotechstars_1.jpeg
-imagehome: 
-description: With thousands of companies applying to the program each year, here is the story from 4 of Techstars London alumni.
+image: 
 Medium URL: https://medium.com/@msrsan/applying-to-techstars-london-the-inside-story-from-osper-lingvist-geospock-and-teskalabs-f7db229f1d91
 ---
 *Techstars London Fall 2015 Cohort*
@@ -15,7 +13,6 @@ As Techstars London heads towards its third birthday, we thought it would be use
 
 **Osper** (Nicolas Esteves): The main reason we applied was for mentorship — we wanted to get support and meet great people. On top of that, we wanted focus and the intensity of the program gave us that.
 
-![Team Lingvist](../assets/img/applyingtotechstars_2.jpeg){:class="img-responsive"}
 *Team Lingvist, just before the Techstars Program*
 
 **Lingvist** (Mait Müntel): We were referred to Techstars from an ex-Skype guy.
@@ -32,7 +29,6 @@ As Techstars London heads towards its third birthday, we thought it would be use
 
 **TeskaLabs**: It was an interesting experience — during the process, we had a call with Techstars Boston and I remember we were at a conference in Germany. Obviously, it was quite challenging to find a quiet place with stable connection at midnight. We managed.
 
-![CEOs during the first day](../assets/img/applyingtotechstars_3.jpeg){:class="img-responsive"}
 *Ben Taylor (Rainbird), Dr. Steve Marsh (Geospock), Sohrab Jahanbani (Bidvine) and Tak Lo (ex-Techstars) during a Treasure Hunt search on Day 1*
 
 **Techstars London: Why do you think you got accepted?**
@@ -51,7 +47,6 @@ As Techstars London heads towards its third birthday, we thought it would be use
 
 **Lingvist**: At the time, we had no product — just an idea on our slides.
 
-![Team Osper](../assets/img/applyingtotechstars_4.jpeg){:class="img-responsive"}
 *Team Osper after the Techstars Demo Day*
 
 **Geospock**: When we applied, we had just raised our seed round and had our mobile tech stack developed. We needed to test if there was a market for it.
@@ -76,7 +71,6 @@ As Techstars London heads towards its third birthday, we thought it would be use
 
 **Geospock**: The Demo Day after party was definitely a good part! I was high on adrenalin after the Demo Day pitching and I also ended up going straight to No.10 to pitch on the same day — so it was good to relax after a job well done. All in all the whole programme was great — meeting other founders and mentors and building the network was pretty special.
 
-![Ales Teska pitching](../assets/img/applyingtotechstars_5.jpeg){:class="img-responsive"}
 *Ales Teska (TeskaLabs) pitching during the Demo Day (image by Dan Taylor)*
 
 **TeskaLabs**: The best part was actually after Demo Day — the realisation that our pitch was great with a huge amount of contact from interested parties.

@@ -5,13 +5,11 @@ author: "Marko Srsan"
 categories: random
 tags: [Values,Life,PerAsperaAdAstra]
 image: 
-imagehome: 
-description: Work, problem, solution, perseverance, iteration, work, problem, solution, success. 
 tumblr_url: http://msrsan.tumblr.com/post/14768234263/per-aspera-ad-astra
 ---
 My first post on this blog and, in the same time, the title of this whole blog. 
 
-I came across this quote about eight years ago while watching the movie “Armageddon”. As I was in high school back then and I learned Latin, it seemed familiar so I looked it up. I didn’t know what to expect so I was quite surprised by the translation that said - “To the stars through difficulties and hardship”. 
+I came across this quote about eight years ago while watching the movie “Armageddon”. As I was in high school back then and I learned Latin, it seemed familiar so I looked it up. I didn’t know what to expect so I was quite surprised by the translation that said - “To the stars through difficulties”. 
 
 When I thought about it, it really is true. When you want something done, you often come across problems, you often come across misunderstandings and disbelief. But, eventually you prevail and get through victorious. 
 

@@ -4,9 +4,7 @@ title: "TechBikers 2015 (Paris - London) - Am I ready?"
 author: "Marko Srsan"
 categories: random
 tags: [TechBikers,cycling,charity]
-image: techbikers2_1.jpg
-imagehome: 
-description: Preparation for a 300 km bike ride is tough and being disciplined about it makes sense.
+image: 
 Medium URL: https://medium.com/@msrsan/techbikers-2015-paris-london-am-i-ready-e2b0c09fc14
 ---
 I wanted to [apply for TechBikers](https://medium.com/@msrsan/techbikers-2015-paris-london-turning-the-tide-on-illiteracy-18474d7c979b) for the last three years, there was simply no better time to decide to participate this year.
@@ -17,11 +15,11 @@ After that, high school, university and other activities came to play, so I didn
 
 But, even though Techstars is in program right now and I am working 10–14 hours a day, taking care of the companies and all the activities that happen, few months back I decided to participate in Techbikers and prepare for it as much as I can.
 
-![calendar](../assets/img/techbikers2_2.png){:class="img-responsive"}
+*An average calendar week in a Techstars program.*
 
 So, since British drive on the wrong side of the road, I joined the gym, started eating more and healthier. My daily gym pattern is 4 days and break; 4 days and break; 4 days and break. It was usually in the evening (around 8 PM, after work), but there were some times when I simply couldn’t make it afterwork so I did it in the morning at 6 AM. Also, since the whole Techstars calendar is pretty much planned out in advance, I always know when the free time for the gym will be and can basically round the gym schedule around Techstars perfectly. I never went to gym this persistently and with such discipline and it’s so awesome!
 
-![spin](../assets/img/techbikers2_3.jpeg){:class="img-responsive"}
+*Spin, spin, spin.*
 
 As I’m preparing for a bike ride, my gym sessions were mostly around doing legs and core — bike spinning, squats, lunges, various other machines (leg and calf press, leg curls and extensions etc.), planks, spiderman planks etc.. My gym days would usually start by rowing for 2k followed by either bike or machines or both. It would depend on the mood mostly — if I wanted to sit on a bike for an hour or if I wanted to do something more interesting.
 
