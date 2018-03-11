@@ -7,6 +7,7 @@ tags: [welcome,blogpost,website]
 image:
 imagehome: 
 description: Hello World! This is where my personal website and a small part of the Internet will be based. Welcome!
+crosspost_to_medium: true
 ---
 Welcome to my personal website, my blog, the small part of the Internet where I am sharing my thoughts and opinions about topics that come from the startup and VC world, productivity domain and random, fun and less fun domains. 
 
