@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [jobs,startup,US]
 image: internationalinternship.jpg
-imagehome: 
+imagehome: internationalinternship_home.png
 description: Immigration is a pain. This is what I found out while figuring out how to do an internship in the US.
 tumblr_url: http://msrsan.tumblr.com/post/54989823249/international-internship-in-the-united-states
 ---

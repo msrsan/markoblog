@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [VC,startup,SomethingVentured]
 image: somethingventured.jpg
-imagehome: 
+imagehome: somethingventured_home.png
 youtubeId: N1tyiWP9MSk
 description: Venture Capital industry started in 1950s and Something Ventured depicts is all.
 tumblr_url: http://msrsan.tumblr.com/post/57503578850/something-ventured

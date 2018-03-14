@@ -4,7 +4,7 @@ author: "Marko Srsan"
 categories: random
 tags: [Politics,StateOfTheUnion,US]
 image: stateoftheunion.jpg
-imagehome: 
+imagehome: stateoftheunion_home.png
 description: After a number of West Wing State of the Unions, I finally watched the real one live.
 tumblr_url: http://msrsan.tumblr.com/post/16459977600/state-of-the-union-2012
 ---

@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [Techstars,2014,VC]
 image: lessonslearned1.jpg
-imagehome: 
+imagehome: lessonslearned1_home.png
 description: 11 companies embarked on the Techstars accelerator journey. Here is what I learned by working alongside them for 3 months.
 Medium URL: https://medium.com/@msrsan/lessons-learned-from-the-techstars-london-winter-14-batch-61920acef616
 ---

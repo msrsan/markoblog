@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [Techstars,TakLo,mentor]
 image: mymentor_1.png
-imagehome: 
+imagehome: mymentor_1_home.png
 description: Mentorship. A person who will guide you, help you, stand by you and believe in you. Here is my.
 Medium URL: https://medium.com/@msrsan/my-mentor-tak-lo-f748f8546540
 ---

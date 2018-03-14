@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [Internet,startup,tech]
 image: iranianinternet.jpg
-imagehome: 
+imagehome: iranianinternet_home.png
 description: Censorship of the Iranian internet space that will limit people's access to information.
 tumblr_url: http://msrsan.tumblr.com/post/15615427201/iranian-internet
 ---

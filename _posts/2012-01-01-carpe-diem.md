@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: random
 tags: [NewYear,carpediem,joke]
 image: carpediem.gif
-imagehome: 
+imagehome: carpediem_home.png
 description: 2012 is here. Make the most of it!
 tumblr_url: http://msrsan.tumblr.com/post/15126135679/carpe-diem
 ---

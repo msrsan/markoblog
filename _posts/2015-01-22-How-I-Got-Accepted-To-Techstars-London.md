@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [Techstars,Associate,VC]
 image: howIgotacceptedintotechstars.png
-imagehome: 
+imagehome: howIgotacceptedintotechstars_home.png
 description: Finally, I am in. Read the inside story about how I got accepted to be a part Techstars London 2014 Winter class.
 Medium URL: https://medium.com/@msrsan/how-i-got-accepted-to-techstars-london-40f27b325e29
 ---

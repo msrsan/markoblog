@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: random
 tags: [movie,recommendation,fullmetaljacket]
 image: fullmetaljacket.jpg
-imagehome: 
+imagehome: fullmetaljacket_home.png
 description: Stanley Cubrick shows a double-sided story about war and preparation for it.
 tumblr_url: http://msrsan.tumblr.com/post/15022592296/fullmetaljacket
 ---

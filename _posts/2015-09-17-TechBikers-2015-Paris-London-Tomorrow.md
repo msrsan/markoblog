@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: random
 tags: [TechBikers,cycling,charity]
 image: techbikers3_1.jpg
-imagehome: 
+imagehome: techbikers3_1_home.png
 description: Tomorrow is a big day - I finally embark on the Paris to London bike ride with Techbikers.
 Medium URL: https://medium.com/@msrsan/techbikers-2015-paris-london-tomorrow-fed1ace0cd9b
 ---

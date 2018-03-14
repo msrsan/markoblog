@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: random
 tags: [TechBikers,cycling,charity]
 image: techbikers1_1.jpg
-imagehome: 
+imagehome: techbikers1_1_home.png
 description: Education and literacy are silver bullets. This is why I will ride a bike from Paris to London.
 Medium URL: https://medium.com/@msrsan/techbikers-2015-paris-london-turning-the-tide-on-illiteracy-18474d7c979b
 ---

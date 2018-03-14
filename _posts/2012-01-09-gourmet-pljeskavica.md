@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: random
 tags: [Croatian,food,burger]
 image: gourmetpljeskavica.jpg
-imagehome: 
+imagehome: gourmetpljeskavica_home.png
 description: Gourmet pljeskavica - one of my favourite meat dishes.
 tumblr_url: http://msrsan.tumblr.com/post/15562297587/gourmet-pljeskavica
 ---

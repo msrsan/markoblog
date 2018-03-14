@@ -8,7 +8,7 @@ google-ID: '27948235'
 menu:
 - {name: 'Startup / VC', path: 'menu', url: 'startupVC.html'}
 - {name: 'Productivity', path: 'menu', url: 'productivity.html'}
-- {name: 'Jobs', path: 'menu', url: 'jobs.html'}
+- {name: 'Tech', path: 'menu', url: 'tech.html'}
 - {name: 'Random', path: 'menu', url: 'random.html'}
 - {name: 'About', path: 'menu', url: 'about.html'}
 
@@ -17,11 +17,11 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'envelope', link: 'mailto:marko@techstars.com'}
-- {icon: 'facebook', link: 'www.facebook.com/msrsan'}
+- {icon: 'facebook', link: 'https://www.facebook.com/msrsan'}
 - {icon: 'twitter', link: 'https://twitter.com/msrsan'}
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/msrsan/'}
 - {icon: 'instagram', link: 'https://www.instagram.com/msrsan/'}
-- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text

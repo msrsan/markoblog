@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: random
 tags: [music,drumms,army]
 image: drumming.jpg
-imagehome: drumming.jpg
+imagehome: drumming_home.png
 description: Drumming, releasing the energy and blasting cannot be more satisfying then when you are surrounded by war.
 tumblr_url: http://msrsan.tumblr.com/post/14816678086/drumming-like-a-boss
 ---

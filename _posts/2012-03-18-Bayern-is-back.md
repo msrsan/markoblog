@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: random
 tags: [Bayern,football,Munchen]
 image: bayernisback.gif
-imagehome: 
+imagehome: bayernisback_home.png
 description: Bayern. My favourite football team. They are back and kicking!
 tumblr_url: http://msrsan.tumblr.com/post/19508961287/bayernisback
 ---

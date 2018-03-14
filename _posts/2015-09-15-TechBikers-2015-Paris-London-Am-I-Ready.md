@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: random
 tags: [TechBikers,cycling,charity]
 image: techbikers2_1.jpg
-imagehome: 
+imagehome: techbikers2_1_home.png
 description: Preparation for a 300 km bike ride is tough and being disciplined about it makes sense.
 Medium URL: https://medium.com/@msrsan/techbikers-2015-paris-london-am-i-ready-e2b0c09fc14
 ---

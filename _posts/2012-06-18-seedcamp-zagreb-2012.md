@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [Seedcamp,Zagreb,accelerator]
 image: seedcamp.jpg
-imagehome: 
+imagehome: seedcamp_home.png
 youtubeId: kBnJnXq4YQ8
 description: After a succesful event in Ljubljana a year before, Seedcamp came and met the regional startups in Zagreb in 2012.
 tumblr_url: http://msrsan.tumblr.com/post/25356457464/seedcamp-zagreb-2012

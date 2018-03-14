@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [startup,socialmedia,community]
 image: tvitomanija.jpg
-imagehome: 
+imagehome: tvitomanija_home.png
 description: Tvitomanija is the best social media conference in South East Europe that gathered social media geeks across the region.
 tumblr_url: http://msrsan.tumblr.com/post/50642971691/tvitomanija
 ---

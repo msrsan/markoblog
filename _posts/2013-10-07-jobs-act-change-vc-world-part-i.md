@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [startup,VC,crowdfunding]
 image: jobsact.jpg
-imagehome: 
+imagehome: jobsact_home.png
 description: JOBS act is coming to life to help companies fundraise easier.
 tumblr_url: http://msrsan.tumblr.com/post/63365612003/jobs-act-change-vc-world-part-i
 ---

@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [startup,500Startups,DaveMcClure]
 image: goap.jpg
-imagehome: 
+imagehome: goap_home.png
 description: Geeks are coming, get your pitches ready and slide decks polished! 
 tumblr_url: http://msrsan.tumblr.com/post/25155626467/goap-croatia
 ---

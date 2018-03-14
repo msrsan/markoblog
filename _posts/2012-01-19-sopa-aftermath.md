@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: startup
 tags: [Internet,startup,tech]
 image: sopaaftermath.jpg
-imagehome: 
+imagehome: sopaaftermath_home.png
 description: SOPA victory after the blackout. 
 tumblr_url: http://msrsan.tumblr.com/post/16110268262/sopa-aftermath
 ---

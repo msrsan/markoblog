@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: productivity
 tags: [productivity,gmail,email]
 image: gmailcompose1.jpg
-imagehome: 
+imagehome: gmailcompose1_home.png
 description: One of the most used services, Gmail, is changing and making me do things in a way that I do not want to.
 tumblr_url: http://msrsan.tumblr.com/post/58186972563/new-compose-gmail-is-here-to-stay
 ---

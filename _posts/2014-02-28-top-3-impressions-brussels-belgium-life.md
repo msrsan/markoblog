@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: random
 tags: [Brussels,Belgium,life]
 image: belgiumlife1.jpg
-imagehome: 
+imagehome: belgiumlife1_home.png
 description: I spent 6 months living and studying in Brussels. Here are my impressions on Belgium life.
 tumblr_url: http://msrsan.tumblr.com/post/78096313746/top-3-impressions-brussels
 
