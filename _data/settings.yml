@@ -3,7 +3,7 @@ disqus:
   comments: true
   disqus_shortname: 'msrsan'
 
-google-ID: '27948235'
+google_analytics: 'UA—27948235-1'
 
 menu:
 - {name: 'Startup / VC', path: 'menu', url: 'startupVC.html'}
