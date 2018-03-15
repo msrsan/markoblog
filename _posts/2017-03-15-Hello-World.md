@@ -24,3 +24,5 @@ Those blog posts covered [My Mentor Tak](My-Mentor-Tak-Lo.html), [Geeks On A Pla
 All in all, hopefully it will be useful and potentially interesting for everyone. And fun.
 
 If you want to get in touch - see the icons above - feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40msrsan) or email at marko@techstars.com. If you simply want to follow me, you can find me on [Twitter](www.twitter.com/msrsan), [LinkedIn](www.linkedin.com/msrsan) and/or [Facebook](www.facebook.com/msrsan). 
+
+PS - Obviously, even though I have a technical background, this [Jekyll](https://jekyllrb.com/) blog wouldn't see the light of day without the massive help from [Marija](https://www.linkedin.com/in/marija-mandic/), a kick ass software developer :)
