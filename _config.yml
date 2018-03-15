@@ -23,6 +23,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           'Marko Srsan'
 description:	       ' .. .. .. per aspera ad astra'
 author:                'Marko Srsan'
+google_analytics: 'UA—27948235-1'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
