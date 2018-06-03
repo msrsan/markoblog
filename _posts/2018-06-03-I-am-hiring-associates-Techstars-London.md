@@ -8,7 +8,7 @@ image: hiringassociates_1.jpg
 imagehome: hiringassociates_home.png
 description: Associates are people that come in for the duration of the Program and work closely with 10 companies Techstars selected.
 youtubeId: _fHyoD25UPg
-crosspost_to_medium: false
+crosspost_to_medium: true
 ---
 *Techstars London 2017 associates*
 
