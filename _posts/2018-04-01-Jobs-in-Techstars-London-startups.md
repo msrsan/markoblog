@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Techstars London Jobs - April 2018 Edition"
+title: "Techstars London Jobs - June 2018 Edition"
 author: "Marko Srsan"
 categories: startup
 tags: [jobs,startups,London,techstars]

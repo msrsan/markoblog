@@ -7,7 +7,7 @@ tags: [techstars,application,accelerator]
 image: techstarsapplication1.png
 imagehome: techstarsapplication1_home.png
 description: Among 1k companies that are applying for Techstars London, you'll want to stand out. Here are some tips on how to do that!
-crosspost_to_medium: true
+crosspost_to_medium: false
 ---
 *FindMeCure (Techstars London 2017) application front page*
 
