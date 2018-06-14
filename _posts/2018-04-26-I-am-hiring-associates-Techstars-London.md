@@ -12,6 +12,8 @@ crosspost_to_medium: false
 ---
 *Techstars London 2017 associates*
 
+**UPDATE on June 10th** - I am still looking for a [Software Development](https://www.techstars.com/jobs/8a78839f62b28d080162b551a7ef02f7/?gnk=job&gni=8a78839f62b28d080162b551a7ef02f7){:target="_blank"} and [Design](https://www.techstars.com/jobs/8a78839f62b28d080162b5634dc13d8e/?gnk=job&gni=8a78839f62b28d080162b5634dc13d8e){:target="_blank"} Associate. If interested, do reach out!
+
 **Who are the associates?** 
 
 Associates are people that come in during the Techstars Program and then work closely with the companies Techstars selected. As we want our companies to accelerate as fast as possible, Techstars hires associates to give that extra fuel. Associates would come from all kinds of backgrounds and would mostly fall under: Business Development, Marketing, Software Development and Design.
