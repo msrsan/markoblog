@@ -4,11 +4,11 @@ disqus:
   disqus_shortname: 'msrsan'
 
 menu:
-- {name: 'Startup / VC', path: 'menu', url: 'startupVC.html'}
-- {name: 'Productivity', path: 'menu', url: 'productivity.html'}
-- {name: 'Tech', path: 'menu', url: 'tech.html'}
+- {name: 'Startup / VC', path: 'menu', url: 'startupVC'}
+- {name: 'Productivity', path: 'menu', url: 'productivity'}
+- {name: 'Tech', path: 'menu', url: 'tech'}
 - {name: 'Random', path: 'menu', url: 'random.html'}
-- {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'About', path: 'menu', url: 'about'}
 
 
 
