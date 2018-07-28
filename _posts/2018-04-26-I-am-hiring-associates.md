@@ -12,7 +12,7 @@ crosspost_to_medium: false
 ---
 *Techstars London 2017 associates*
 
-**UPDATE on June 10th** - I am still looking for a [Software Development](https://www.techstars.com/jobs/8a78839f62b28d080162b551a7ef02f7/?gnk=job&gni=8a78839f62b28d080162b551a7ef02f7){:target="_blank"} and [Design](https://www.techstars.com/jobs/8a78839f62b28d080162b5634dc13d8e/?gnk=job&gni=8a78839f62b28d080162b5634dc13d8e){:target="_blank"} Associate. If interested, do reach out!
+**UPDATE on July 16th** - Everyone is hired! However, if you are looking for a gig, see some of the [jobs Techstars London companies](http://msrsan.com/Jobs-in-Techstars-London-startups) have!
 
 **Who are the associates?** 
 
