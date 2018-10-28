@@ -2,7 +2,7 @@
 layout: post
 title: "Greatest Vines of 2013"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [Vine,video,fun]
 image: 
 imagehome: 

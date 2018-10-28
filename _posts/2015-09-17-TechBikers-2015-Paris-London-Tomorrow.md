@@ -2,7 +2,7 @@
 layout: post
 title: "TechBikers 2015 (Paris - London) - Tomorrow"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [TechBikers,cycling,charity]
 image: techbikers3_1.jpg
 imagehome: techbikers3_1_home.png

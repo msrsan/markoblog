@@ -6,8 +6,8 @@ disqus:
 menu:
 - {name: 'Startup / VC', path: 'menu', url: 'startupVC'}
 - {name: 'Productivity', path: 'menu', url: 'productivity'}
-- {name: 'Tech', path: 'menu', url: 'tech'}
-- {name: 'Random', path: 'menu', url: 'random.html'}
+- {name: 'Growth', path: 'menu', url: 'growth'}
+- {name: 'Chill', path: 'menu', url: 'chill'}
 - {name: 'About', path: 'menu', url: 'about'}
 
 

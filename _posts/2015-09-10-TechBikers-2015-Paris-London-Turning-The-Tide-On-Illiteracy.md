@@ -2,7 +2,7 @@
 layout: post
 title: "TechBikers 2015 (Paris - London) - Turning The Tide On Illiteracy"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [TechBikers,cycling,charity]
 image: techbikers1_1.jpg
 imagehome: techbikers1_1_home.png

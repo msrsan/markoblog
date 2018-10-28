@@ -2,7 +2,7 @@
 layout: post
 title: "Iranian internet"
 author: "Marko Srsan"
-categories: startup
+categories: chill
 tags: [Internet,startup,tech]
 image: iranianinternet.jpg
 imagehome: iranianinternet_home.png

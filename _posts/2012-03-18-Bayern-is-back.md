@@ -2,7 +2,7 @@
 layout: post
 title: "Bayern Is Back"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [Bayern,football,Munchen]
 image: bayernisback.gif
 imagehome: bayernisback_home.png

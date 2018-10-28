@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Productivity
+title: Chill
 ---
-Here is a list of blog posts with a Productivity background.
+Here is a list of all the Chill blog posts.
 
 <ul class="posts">
   {% for post in site.posts %}
-    {% if post.categories contains 'productivity' %}
+    {% if post.categories contains 'chill' %}
+    
       {% assign year = post.date | date: "%Y" %}
 
       {% if year != prev_year %}

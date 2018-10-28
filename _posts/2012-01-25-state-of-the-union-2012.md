@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [Politics,StateOfTheUnion,US]
 image: stateoftheunion.jpg
 imagehome: stateoftheunion_home.png

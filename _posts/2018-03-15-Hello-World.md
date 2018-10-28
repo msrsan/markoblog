@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [welcome,blogpost,website]
 image: helloworld.png
 imagehome: helloworld_home.png

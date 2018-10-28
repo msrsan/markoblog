@@ -2,7 +2,7 @@
 layout: post
 title: "TechBikers 2015 (Paris - London) - Am I ready?"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [TechBikers,cycling,charity]
 image: techbikers2_1.jpg
 imagehome: techbikers2_1_home.png

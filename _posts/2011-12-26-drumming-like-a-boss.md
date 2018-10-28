@@ -2,7 +2,7 @@
 layout: post
 title: "Drumming Like A Boss"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [music,drumms,army]
 image: drumming.jpg
 imagehome: drumming_home.png

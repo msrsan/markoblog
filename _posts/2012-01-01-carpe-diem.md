@@ -2,7 +2,7 @@
 layout: post
 title: "Carpe Diem"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [NewYear,carpediem,joke]
 image: carpediem.gif
 imagehome: carpediem_home.png

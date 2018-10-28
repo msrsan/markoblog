@@ -2,7 +2,7 @@
 layout: post
 title: "Scumbag geek"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [Marko,photo,cool]
 image: scumbaggeek.jpg
 imagehome: scumbaggeek_home.png

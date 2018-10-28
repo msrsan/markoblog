@@ -2,7 +2,7 @@
 layout: post
 title: "Per aspera ad astra"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [Values,Life,PerAsperaAdAstra]
 image: perasperaadastra.png
 imagehome: perasperaadastra_home.png

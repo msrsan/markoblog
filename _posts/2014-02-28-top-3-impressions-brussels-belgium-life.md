@@ -2,7 +2,7 @@
 layout: post
 title: "Top 3 Impressions on Belgium life"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [Brussels,Belgium,life]
 image: belgiumlife1.jpg
 imagehome: belgiumlife1_home.png

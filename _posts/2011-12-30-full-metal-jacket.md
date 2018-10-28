@@ -2,7 +2,7 @@
 layout: post
 title: "Full Metal Jacket"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [movie,recommendation,fullmetaljacket]
 image: fullmetaljacket.jpg
 imagehome: fullmetaljacket_home.png

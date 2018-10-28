@@ -2,7 +2,7 @@
 layout: post
 title: "Gourmet pljeskavica"
 author: "Marko Srsan"
-categories: random
+categories: chill
 tags: [Croatian,food,burger]
 image: gourmetpljeskavica.jpg
 imagehome: gourmetpljeskavica_home.png
