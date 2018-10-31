@@ -16,7 +16,7 @@ This summer [Techstars London](https://www.techstars.com/programs/london-program
 
 For me, this was the 5th Techstars program I was involved with and it was by no means less exciting than the previous ones.
 
-1. (Another) Transition**
+1. (Another) Transition
 
     After Springboard got acquired by Techstars in 2013, Techstars London became the [first international](https://www.techstars.com/content/blog/announcing-techstars-in-london/) Techstars program and it was run by Jon Bradford. Jon was also the MD when I joined in 2014 as an associate. In 2015 Jon transitioned out and Max Kelly joined us as an MD. Max and I ran 3 programs (2015, 16, 17) together. After the 2017 program, Max transitioned out to a VP of Innovation and Strategy role within Techstars and [Eamonn Carey](https://www.techstars.com/content/accelerators/announcing-eamonn-carey-managing-director-techstars-london/) jumped in. 
 
@@ -26,7 +26,7 @@ For me, this was the 5th Techstars program I was involved with and it was by no 
 
     When a new person joins the team, she brings everything with her - personality and charm, management skills and experience (working with big, working with small companies and teams), communication and work style and domain expertise. It is a **new person** coming on board. 
 
-    I knew Eamonn from before, he was a mentor since the beginning of Techstars London, he was an EIR with the Barclays program a number of times, we cought up a number of times and even drank beer in Dublin once, but I haven't worked with him before. It was super fun to go through another transition, to see and observe what he thinks about startups and challenges they have, what is important to him when evaluating and working with them, how he approaches changing people's lives. It is **humbling** to get another chance to learn from an MD, be flexible and adapt to a slightly different management style, accept new angles, move fast as ever and be succesful at it.
+    I knew [Eamonn](https://www.linkedin.com/in/ecarey/) from before, he was a mentor since the beginning of Techstars London, he was an EIR with the Barclays program, we cought up a number of times and even had a beer or two in Dublin once, but I haven't worked with him before. It was super fun to go through another transition, to see and observe what he thinks about startups and challenges they have, what is important to him when evaluating and working with them, how he approaches changing people's lives. It is **humbling** to get another chance to learn from an MD, be flexible and adapt to a slightly different management style, get and accept new angles, but still move fast as ever and be succesful at it.
 
 2. The most multicultural cohort so far
 
