@@ -30,7 +30,7 @@ For me, this was the 5th Techstars program I was involved with and it was by no 
 
 2. The most multicultural cohort so far
 
-    It was my 5th cohort and I believe it was the most multicultural cohort so far. Perhaps we did not have as many nationalities as before (we had ~19 if I remember right, but in 2016, 4 days before Brexit, we had 22 nationalities out of 42 people in the 2016 program), but this year's cohort reach was broad. From South Korea and Hong Kong to India in Asia to Ukraine, Finland, Portugal and Estonia in Europe, to a company from the US and a few from the UK. **It was a trully global program.**
+    It was my 5th cohort and I believe it was the most multicultural cohort so far. Perhaps we did not have as many nationalities as before (we had ~19 if I remember right, but in 2016 we had 22 nationalities out of 42 people), but this year's cohort reach was broad. From South Korea and Hong Kong to India in Asia to Ukraine, Finland, Portugal and Estonia in Europe, to a company from the US and a few from the UK. **It was a trully global program.**
 
     And it could be felt in the office as well - and I am not even talking about the Bollywood dancing night. **Different backgrounds and styles**, some quiet and calm, some loud and all over the place, some with a "just do it, I'll ask for help later" and some with "I will make sure I know everything and then do it" approach. People that started "Google" in Korea, people that sang opera as kids and acted in theatre, people that traveled the world, built games, saved their trading floors from crashing, built and sold companies before, launched major labels in the US ... but genuinely nice and kind people!
     
@@ -54,7 +54,7 @@ For me, this was the 5th Techstars program I was involved with and it was by no 
 
 *Techstars London 2018 Team*
 
-You can read some of the Program and Demo Day coverage in [Forbes's piece](https://www.forbes.com/sites/maikoschaffrath/2018/10/10/3-startups-show-the-rise-of-tech-for-good-at-techstars-london-demoday/#6031b6cc5bb9), [Cynthias comment](https://www.linkedin.com/pulse/impressive-impactful-cohort-cynthia-nadal/), [Overview of Pesky Fish in Forbes](https://www.forbes.com/sites/johnwelsheurope/2018/10/04/how-pesky-fish-is-reinventing-the-supply-chain-to-deliver-seafood-fresh-to-chefs/), [Steve's blog post](https://medium.com/@steventjenkins/7-tips-to-making-the-most-of-a-startup-accelerator-f49dcf053f4c) and a bunch of other across the Internet.
+You can read some of the Program and Demo Day coverage in [Forbes's piece](https://www.forbes.com/sites/maikoschaffrath/2018/10/10/3-startups-show-the-rise-of-tech-for-good-at-techstars-london-demoday/#6031b6cc5bb9), [Cynthia's comment](https://www.linkedin.com/pulse/impressive-impactful-cohort-cynthia-nadal/), [Overview of Pesky Fish in Forbes](https://www.forbes.com/sites/johnwelsheurope/2018/10/04/how-pesky-fish-is-reinventing-the-supply-chain-to-deliver-seafood-fresh-to-chefs/), [Steve's blog post](https://medium.com/@steventjenkins/7-tips-to-making-the-most-of-a-startup-accelerator-f49dcf053f4c) and a bunch of other across the Internet.
     
 --
 
