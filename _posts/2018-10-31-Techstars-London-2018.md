@@ -8,7 +8,7 @@ image: techstarslondon2018.png
 imagehome: techstarslondon2018_home.png
 description: Techstars London 2018 ended 3 weeks ago. This is what happened.
 youtubeId: os7wzC43agI
-crosspost_to_medium: false
+crosspost_to_medium: true
 ---
 *Techstars London 2018 cohort*
 
