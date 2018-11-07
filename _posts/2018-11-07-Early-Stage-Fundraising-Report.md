@@ -36,6 +36,6 @@ The report's aim is to better understand the state of technology, startups and i
 
     The report found that **Fintech** startups such as Monzo and N26, and **Medtech** startups such as Dr.Focused, Kry and Doctolib have benefited most from the influx of investment. Consequently, they have each received €2.32bn and €2.07bn in investment respectively over the last three years.
 
-These are indeed the exciting times for the European Startups and Investment Community!
+These are indeed exciting times for the European Startups and Investment Community!
 
 To dig into the full details, download the [**Full Report**](http://tech.eu/seedthefuture).
