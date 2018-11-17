@@ -17,13 +17,26 @@ paginate:            10
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-crosspost-to-medium]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag] #jekyll-crosspost-to-medium]
 google_analytics: 'UA-27948235-2'
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Marko Srsan'
 description:	       ' .. .. .. per aspera ad astra'
+url:                   'http://msrsan.com'
 author:                'Marko Srsan'
+twitter:
+    username: msrsan
+    card: summary
+facebook:
+    admins: 543225735
+social:
+    name: Marko Srsan
+    links:
+        - https://twitter.com/msrsan
+        - https://www.facebook.com/msrsan
+        - https://www.linkedin.com/in/msrsan
+lang: en_UK
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
