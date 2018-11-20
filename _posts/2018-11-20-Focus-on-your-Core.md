@@ -9,7 +9,7 @@ imagehome: core_home.png
 description: With limited time and space, not focusing exclusively on your core can be costly by steering the conversation away.
 crosspost_to_medium: false
 ---
-No, it is a not a gym / fitness blog post. 
+No, this is not a gym / fitness blog post. 
 
 In a job interview, while doing a product sale, pitching your company in front of an audience, raising funds for a company or even flirting with a potential partner .. there is a tendency to **overtalk**, run short on time and not achieve the set goal of that *conversation*. 
 
