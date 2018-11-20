@@ -51,4 +51,4 @@ Those questions will be and should be asked and will come down the line. However
 
 In my experience, this works for 3-5 minute conversations, but you can also use it big, 30-60 minute, but also in shorter, every day conversations when making a point and getting your thoughts across. You always need to know what the goal is, but by sharing more, the risk of drifting away from the point into uncertainty rises. 
 
-Way too often people share too much and go too broad and therefore lose the attention of the other person who misses the point in the short conversation. Stick to the core, be focused on your strengths and suppress the urge to go broad.
+Way too often people share too much and go too broad and therefore lose the attention of the other person who misses the point in the short conversation. Stick to the core, be focused on your strengths and suppress the urge to go broad. And [follow up!](https://msrsan.com/Follow-up)
