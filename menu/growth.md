@@ -2,7 +2,7 @@
 layout: page
 title: Growth
 ---
-Here is a list of blog posts with Growth aspects - people growth, company growth around me.
+Here is a list of blog posts regarding various Growth topics - personal development, leadership, culture, people growth, company growth.
 
 <ul class="posts">
   {% for post in site.posts %}

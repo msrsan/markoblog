@@ -2,7 +2,7 @@
 layout: page
 title: Productivity
 ---
-Here is a list of blog posts with a Productivity background.
+Here is a list of blog posts regarding Productivity - how to get better at what you do, be effective and more efficient, jump through hoops faster and execute.
 
 <ul class="posts">
   {% for post in site.posts %}

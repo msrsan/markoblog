@@ -2,7 +2,7 @@
 layout: page
 title: Chill
 ---
-Here is a list of all the Chill blog posts.
+Here is a list of all the Chill blog posts - fun, food, travel, movies, food, experiences, food.
 
 <ul class="posts">
   {% for post in site.posts %}

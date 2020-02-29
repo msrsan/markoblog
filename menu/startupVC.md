@@ -2,7 +2,7 @@
 layout: page
 title: Startup / VC
 ---
-Here is a list of blog posts with a Startup or VC background.
+Here is a list of blog posts with a Startup or VC topics.
 
 <ul class="posts">
   {% for post in site.posts %}
