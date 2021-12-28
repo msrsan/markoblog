@@ -4,8 +4,12 @@ title: "Roy Keane - Lessons in Leadership"
 author: "Marko Srsan"
 categories: growth
 tags: leadership, football, roy keane, manchester united
-image: ![Alt](roykeane.jpeg “Roy Keane”)
-imagehome: roykeane_home.png
+image: 
+ name: roykeane.jpeg
+ alt: Roy Keane
+imagehome:
+ name: roykeane_home.png
+ alt: Roy Keane
 description: Even though depicted as super emotional (and often too aggressive), he actually lead his team properly and cared.
 youtubeId1: i0Ie4o-wyjk
 youtubeId2: WzGOF7NXZic
