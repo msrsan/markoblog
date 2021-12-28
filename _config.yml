@@ -22,7 +22,7 @@ google_analytics: 'UA-27948235-2'
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Marko Srsan'
-description:	       ' .. .. .. per aspera ad astra'
+description:	       ' _____  per aspera ad astra'
 url:                   'https://msrsan.com'
 author:                'Marko Srsan'
 twitter:
