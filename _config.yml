@@ -25,6 +25,10 @@ title:		           'Marko Srsan'
 description:	       ' _____  per aspera ad astra'
 url:                   'https://msrsan.com'
 author:                'Marko Srsan'
+
+author:                
+    name: Marko Srsan
+    twitter: msrsan
 twitter:
     username: msrsan
     card: summary
