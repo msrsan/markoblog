@@ -9,10 +9,16 @@ title: Home
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
-  {% if post.imagehome %}
+  {% if post.imagehome.name %}
   <div class="thumbnail-container">
-    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.imagehome }}"></a>
+    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.imagehome.name}}" alt="{{ post.imagehome.alt }}"></a>
   </div>
+  {% else %}
+      {% if post.imagehome %}
+      <div class="thumbnail-container">
+        <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.imagehome}}"></a>
+      </div>
+      {% endif %}
   {% endif %}
   <p>
     {{ post.description }} 
