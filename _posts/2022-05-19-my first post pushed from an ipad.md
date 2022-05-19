@@ -3,12 +3,12 @@ layout: post
 title: "My first blog post pushed from an iPad"
 author: "Marko Srsan"
 categories: productivity
-tags: [blogging, iPad, paperless]
+tags: blogging, iPad, paperless
 image: ipadblogging.png
-imagehome: ipadblogginghome.png [615x150]
+imagehome: ipadblogginghome.png 
 description: Blogging on a laptop is hard. Blogging on iPad is harder. Until now!
-youtubeId1: id
-youtubeId2: id
+// youtubeId1: id
+// youtubeId2: id
 // {% include youtubePlayer.html id=page.youtubeId1 %}
 crosspost_to_medium: false
 ---
