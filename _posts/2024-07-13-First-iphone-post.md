@@ -5,7 +5,7 @@ author: "Marko Srsan"
 categories: productivity
 tags: iphone
 image: iphoneblogging.jpg
-imagehome: iphoneblogging_home.png [615x150]
+imagehome: iphoneblogging_home.png
 description: This is the first iphone post.
 youtubeId1: id
 youtubeId2: id
