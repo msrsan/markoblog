@@ -4,8 +4,12 @@ title: "First Iphone Post"
 author: "Marko Srsan"
 categories: productivity
 tags: iphone
-image: iphoneblogging.jpg
-imagehome: iphoneblogging_home.png
+image: 
+ name: iphoneblogging.jpg
+ alt: How to blog from iphone
+imagehome: 
+ name: iphoneblogging_home.png
+ alt: How to blog from iphone
 description: This is the first iphone post.
 // {% include youtubePlayer.html id=page.youtubeId1 %}
 crosspost_to_medium: false
