@@ -7,8 +7,6 @@ tags: iphone
 image: iphoneblogging.jpg
 imagehome: iphoneblogging_home.png
 description: This is the first iphone post.
-youtubeId1: id
-youtubeId2: id
 // {% include youtubePlayer.html id=page.youtubeId1 %}
 crosspost_to_medium: false
 ---
