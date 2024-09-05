@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cringe SDR Outreach Email"
+title: "Cringe SDR Outreach Email Subject"
 author: "Marko Srsan"
 categories: startup
 tags: SDR, sales development representative
@@ -17,6 +17,6 @@ SDRs or Sales Development Representatives send a bunch of messages and use a bun
 
 Usually, you want to be in a position of a helpful advisor, you want to inspire and offer help and support. That builds a bridge of trust (that lacks due to a lack of relationship) and potentially lowers my guard to actually reply back and show some kind of interest.
 
-On the other side, there are these types of emails. This has got to be the most cringe SDR outreach message I ever received.
+On the other side, there are these types of emails. I am sure that at the moment of writing, he thought that it would be fun. This has got to be the most cringe SDR outreach message I ever received.
 
 
