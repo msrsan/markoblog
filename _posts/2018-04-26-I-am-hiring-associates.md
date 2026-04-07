@@ -12,7 +12,7 @@ crosspost_to_medium: false
 ---
 *Techstars London 2017 associates*
 
-**UPDATE on July 16th** - Everyone is hired! However, if you are looking for a gig, see some of the [jobs Techstars London companies](http://msrsan.com/Jobs-in-Techstars-London-startups) have!
+**UPDATE on July 16th** - Everyone is hired!
 
 **Who are the associates?** 
 
@@ -44,7 +44,7 @@ There are a lot of blogposts out there about the role and about other associates
 
 5. Duc Luan Dam - [Luan, do you ever sleep?](https://medium.com/@luandd/luan-do-you-ever-sleep-being-an-associate-at-techstars-part-1-d54e64fc80b0){:target="_blank"}
 
-I also wrote two blog posts about my experience: [How I got accepted into Techstars London](http://msrsan.com/startup/How-I-Got-Accepted-To-Techstars-London.html){:target="_blank"} and [Lessons Learned](http://msrsan.com/startup/Lessons-Learned-From-The-Techstars-London-Winter-2014-Batch.html){:target="_blank"}.
+I also wrote two blog posts about my experience: [How I got accepted into Techstars London](https://msrsan.com/How-I-Got-Accepted-To-Techstars-London){:target="_blank"} and [Lessons Learned](https://msrsan.com/Lessons-Learned-From-The-Techstars-London-Winter-2014-Batch){:target="_blank"}.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
