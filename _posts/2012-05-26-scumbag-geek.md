@@ -4,7 +4,7 @@ title: "Scumbag geek"
 author: "Marko Srsan"
 categories: chill
 tags: [Marko,photo,cool]
-image: scumbaggeek.jpg
+image: ScumbagGeek.jpg
 imagehome: scumbaggeek_home.png
 youtubeId: SKWfnO7fhQM
 description: Not much to say here. A photo of a geek.

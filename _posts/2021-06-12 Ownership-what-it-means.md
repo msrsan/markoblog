@@ -2,14 +2,10 @@
 layout: post
 title: "Ownership and what it means"
 author: "Marko Srsan"
-categories: startup / productivity / growth / chill
-tags: [tag, tag, tag]
-image: image.jpeg
-imagehome: image_home.png [615x150]
-description: Lorem ipsum lorem ipsum
-youtubeId1: id
-youtubeId2: id
-// {% include youtubePlayer.html id=page.youtubeId1 %}
+categories: startup
+tags: [ownership, leadership]
+description: Draft — not yet published.
+published: false
 crosspost_to_medium: false
 ---
 [text]

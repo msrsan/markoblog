@@ -11,7 +11,7 @@ crosspost_to_medium: false
 ---
 *FindMeCure (Techstars London 2017) application front page*
 
-Applications for the [Techstars London 2018 program](https://www.techstars.com/programs/london-program/){:target="_blank"} close by the end of the day on Sunday, April 8th 2018. Historically, more than a thousand companies will apply and the competition to get one of the ten spots in the Summer class will be really competitive. See what some of our [alumni said about the applications.](http://msrsan.com/startup/Applying-To-Techstars-London-The-Inside-Story-Osper-Lingvist-Geospock-TeskaLabs.html){:target="_blank"}
+Applications for the [Techstars London 2018 program](https://www.techstars.com/programs/london-program/){:target="_blank"} close by the end of the day on Sunday, April 8th 2018. Historically, more than a thousand companies will apply and the competition to get one of the ten spots in the Summer class will be really competitive. See what some of our [alumni said about the applications.](https://msrsan.com/Applying-To-Techstars-London-The-Inside-Story-Osper-Lingvist-Geospock-TeskaLabs){:target="_blank"}
 
 As the whole selection process is lengthy (selected companies will have 8-12 interviews in total), the primary reason why you'd want your application to stand out is to get to the interview stage; to be picked out from the broader pool of candidates, to intrigue and provoke interest and make the selection team say **"Yes! I wanna talk to this company and find out more about what they are building!".**
 

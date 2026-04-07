@@ -4,7 +4,7 @@ title: "Something Ventured"
 author: "Marko Srsan"
 categories: startup
 tags: [VC,startup,SomethingVentured]
-image: somethingventured.jpg
+image: SomethingVentured.jpg
 imagehome: somethingventured_home.png
 youtubeId: N1tyiWP9MSk
 description: Venture Capital industry started in 1950s and Something Ventured depicts is all.
