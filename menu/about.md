@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about
 ---
 
 ![Marko](../assets/img/msrsan.jpg){:class="img-responsive"} 
