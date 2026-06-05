@@ -8,7 +8,7 @@ menu:
 - {name: 'Productivity', path: 'menu', url: 'productivity'}
 - {name: 'Growth', path: 'menu', url: 'growth'}
 - {name: 'Chill', path: 'menu', url: 'chill'}
-- {name: 'About', path: 'menu', url: 'about'}
+- {name: 'About', path: '', url: 'about'}
 
 
 
