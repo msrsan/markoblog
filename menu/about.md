@@ -5,17 +5,17 @@ title: About
 
 ![Marko](../assets/img/msrsan.jpg){:class="img-responsive"} 
 
-I am a COO at [Memgraph](https://www.memgraph.com).
+I grew up in Croatia and built my career in London. The route between the two was anything but a straight line.
 
-After graduating with a Bachelor's degree in Computer Science and spending an Erasmus semester abroad at ICHEC in Brussels, I obtained a Master's degree in Business at the University of Zagreb.
+I studied Computer Science in Zagreb, with an Erasmus semester at ICHEC in Brussels, before heading back for a Master's in Business. Somewhere in there I helped build TimePrep, an iOS time-management app for CFA candidates - my first proper lesson in how much harder shipping is than planning. I also did business development and wrote for Netokracija (yes, the blogging started early), organised a few 400–500-person conferences, and helped get the Zagreb Entrepreneurship Incubator off the ground.
 
-Even though I am a founder of TimePrep, an iOS time management app for CFA candidates, I worked as a Business development manager and a blogger for [Netokracija](https://www.netokracija.com), leading the organisation of a few 400, 500 people conferences and as an Organizer at the Zagreb Entrepreneurship Incubator. Eventually, I joined [Techstars](https://www.techstars.com) as an Associate in the London Winter 2014 program, became a Program Manager and successfully led Techstars London 2015, 2016, 2017, 2018 and 2019 cohorts while being promoted to a Director role in early 2018.
+Then London, and Techstars. I joined as an Associate on the Winter 2014 programme, became Program Manager, and led the London cohorts from 2015 through 2019 - promoted to Director in early 2018. Five cohorts. Hundreds of founders. The best operational education I could have asked for.
 
-If you want to get in touch - see the icons above - feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40msrsan) or email at marko.srsan@gmail.com. If you simply want to follow me, you can find me on [Twitter](https://www.twitter.com/msrsan), [LinkedIn](https://www.linkedin.com/in/msrsan/) and/or [Facebook](https://www.facebook.com/msrsan). 
+Now I'm COO at Memgraph, a devtool and infrastructure company. I joined on the pure-operations side - finance, legal, ops - as the company was building out its foundations. A year later I moved into go-to-market and revenue: coordinating Developer Experience, Marketing and Sales, and the interfaces between them, while driving the positioning and messaging to find the right use cases. A big part of that has been steering Memgraph into the AI market whilst acknowledging the Graph Analytics roots. At its core, the work stayed the same throughout - building systems each new stage needed.
 
-Domains I feel passionate about: *Entrepreneurship, Venture Capital, Startups, Operations, Productivity, Business Development, Social Media*
+Away from work: drummer, Bayern Munich fan, husband, and father who is currently learning more about patience than any cohort ever did. I ski, and lately I've caught the endurance bug.
 
-
+Feel free to [get in touch](mailto:marko.srsan@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/msrsan/).
 
 - - -
 *All [great blog posts] have one, so here comes mine:* **DISCLAIMER**
