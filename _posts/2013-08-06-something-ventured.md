@@ -2,7 +2,7 @@
 layout: post
 title: "Something Ventured"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [VC,startup,SomethingVentured]
 image: SomethingVentured.jpg
 imagehome: somethingventured_home.png

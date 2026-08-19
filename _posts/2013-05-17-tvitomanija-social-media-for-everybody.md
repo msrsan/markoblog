@@ -2,7 +2,7 @@
 layout: post
 title: "Tvitomanija - social media for everybody"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [startup,socialmedia,community]
 image: tvitomanija.jpg
 imagehome: tvitomanija_home.png

@@ -2,7 +2,7 @@
 layout: post
 title: "Testing AI"
 author: "Marko Srsan"
-categories: 
+categories: chill
 tags: [ai, blogging]
 image: 
 description: "A small milestone: the first post on this blog written and deployed entirely by an AI agent."

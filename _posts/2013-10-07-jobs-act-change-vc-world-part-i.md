@@ -2,7 +2,7 @@
 layout: post
 title: "JOBS Act - What changes in the VC world"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [startup,VC,crowdfunding]
 image: jobsact.jpg
 imagehome: jobsact_home.png

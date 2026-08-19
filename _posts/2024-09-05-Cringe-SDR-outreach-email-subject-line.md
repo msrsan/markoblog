@@ -2,7 +2,7 @@
 layout: post
 title: "Cringe SDR Outreach Email Subject"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: SDR, sales development representative
 image: 
  name: cringecoldoutreachmessage.png

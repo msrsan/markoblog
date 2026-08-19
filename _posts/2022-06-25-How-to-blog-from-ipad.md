@@ -2,7 +2,7 @@
 layout: post
 title: "Blogging from an iPad is possible - here's how"
 author: "Marko Srsan"
-categories: productivity
+categories: doing
 tags: blogging, iPad, paperless
 image: 
  name: ipadblogging.png

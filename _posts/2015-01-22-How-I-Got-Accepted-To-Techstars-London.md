@@ -2,7 +2,7 @@
 layout: post
 title: "How I Got Accepted To Techstars London (For The Associate Role)"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [Techstars,Associate,VC]
 image: howIgotacceptedintotechstars.png
 imagehome: howIgotacceptedintotechstars_home.png

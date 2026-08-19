@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Startup / VC
+title: Thinking
 ---
-Here is a list of blog posts with a Startup or VC topics.
+Posts on how I think — mental models, decisions, causality, and reasoning from first principles.
 
 <ul class="posts">
   {% for post in site.posts %}
-    {% if post.categories contains 'startup' %}
+    {% if post.categories contains 'thinking' %}
     
       {% assign year = post.date | date: "%Y" %}
 

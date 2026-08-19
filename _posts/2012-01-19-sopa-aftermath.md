@@ -2,7 +2,7 @@
 layout: post
 title: "SOPA Aftermath"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [Internet,startup,tech]
 image: sopaaftermath.jpg
 imagehome: sopaaftermath_home.png

@@ -4,9 +4,9 @@ disqus:
   disqus_shortname: 'msrsan'
 
 menu:
-- {name: 'Startup / VC', path: 'menu', url: 'startupVC'}
-- {name: 'Productivity', path: 'menu', url: 'productivity'}
-- {name: 'Growth', path: 'menu', url: 'growth'}
+- {name: 'Startups &amp; VC', path: 'menu', url: 'startups-vc'}
+- {name: 'Thinking', path: 'menu', url: 'thinking'}
+- {name: 'Doing', path: 'menu', url: 'doing'}
 - {name: 'Chill', path: 'menu', url: 'chill'}
 - {name: 'About', path: '', url: 'about'}
 

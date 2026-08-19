@@ -2,7 +2,7 @@
 layout: post
 title: "Help - Hiring associates for Techstars London!"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [techstars,associates,accelerator]
 image: hiringassociates_1.jpg
 imagehome: hiringassociates_home.png

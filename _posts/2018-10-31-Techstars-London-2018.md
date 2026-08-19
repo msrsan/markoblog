@@ -2,7 +2,7 @@
 layout: post
 title: "Techstars London 2018"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [startups,London,techstars]
 image: techstarslondon2018.png
 imagehome: techstarslondon2018_home.png

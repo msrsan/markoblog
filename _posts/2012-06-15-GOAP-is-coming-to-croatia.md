@@ -2,7 +2,7 @@
 layout: post
 title: "#GOAP is coming to Croatia!"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [startup,500Startups,DaveMcClure]
 image: goap.jpg
 imagehome: goap_home.png

@@ -2,7 +2,7 @@
 layout: post
 title: "What do you need to do for an International Internship in the United States?"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [jobs,startup,US]
 image: internationalinternship.jpg
 imagehome: internationalinternship_home.png

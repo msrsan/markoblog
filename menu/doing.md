@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Productivity
+title: Doing
 ---
-Here is a list of blog posts regarding Productivity - how to get better at what you do, be effective and more efficient, jump through hoops faster and execute.
+Posts on managing people and running things — hiring, delegating, ownership, and the craft of getting things done.
 
 <ul class="posts">
   {% for post in site.posts %}
-    {% if post.categories contains 'productivity' %}
+    {% if post.categories contains 'doing' %}
+    
       {% assign year = post.date | date: "%Y" %}
 
       {% if year != prev_year %}

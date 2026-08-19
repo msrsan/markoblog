@@ -2,7 +2,7 @@
 layout: post
 title: "Applying to Techstars London: Tips for a good application"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [techstars,application,accelerator]
 image: techstarsapplication1.png
 imagehome: techstarsapplication1_home.png

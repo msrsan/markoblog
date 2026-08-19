@@ -2,7 +2,7 @@
 layout: post
 title: "Ownership and what it means"
 author: "Marko Srsan"
-categories: startup
+categories: doing
 tags: [ownership, leadership]
 description: Draft — not yet published.
 published: false

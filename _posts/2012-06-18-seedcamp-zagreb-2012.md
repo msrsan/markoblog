@@ -2,7 +2,7 @@
 layout: post
 title: "Seedcamp Zagreb 2012"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [Seedcamp,Zagreb,accelerator]
 image: seedcamp.jpg
 imagehome: seedcamp_home.png

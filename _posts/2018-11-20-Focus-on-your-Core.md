@@ -2,8 +2,8 @@
 layout: post
 title: "Focus on Your Core"
 author: "Marko Srsan"
-categories: growth, productivity
-tags: [core,conversation,interview,skills,clasification,benefit]
+categories: doing
+tags: [core,conversation,interview,skills,clasification,benefit,thinking]
 image: core.png
 imagehome: core_home.png
 description: With limited time and space, not focusing exclusively on your core can be costly by steering the conversation away.
