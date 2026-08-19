@@ -2,7 +2,7 @@
 layout: post
 title: "First Iphone Post"
 author: "Marko Srsan"
-categories: productivity
+categories: doing
 tags: iphone
 image: 
  name: iphoneblogging.jpg

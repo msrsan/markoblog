@@ -2,7 +2,7 @@
 layout: post
 title: "Seed the Future Report: A Deep Dive into European Early-Stage Tech Startup Activity"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [Europe,startups,London,activity]
 image: earlystagefundraisingreport.png
 imagehome: earlystagefundraisingreport_home.png

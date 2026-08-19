@@ -2,7 +2,7 @@
 layout: post
 title: "Comment Away"
 author: "Marko Srsan"
-categories: productivity
+categories: chill
 tags: [comments,productivity,website]
 image:
 imagehome: 

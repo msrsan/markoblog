@@ -2,7 +2,7 @@
 layout: post
 title: "Thank You .. not!"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [SocialMedia,Recommendation,GaryVaynerchuk]
 image:
 imagehome: 

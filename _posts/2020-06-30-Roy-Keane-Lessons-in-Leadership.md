@@ -2,7 +2,7 @@
 layout: post
 title: "Roy Keane - Lessons in Leadership"
 author: "Marko Srsan"
-categories: growth
+categories: doing
 tags: leadership, football, roy keane, manchester united
 image: 
  name: roykeane.jpeg

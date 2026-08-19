@@ -2,7 +2,7 @@
 layout: post
 title: "My Mentor - Tak Lo"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [Techstars,TakLo,mentor]
 image: mymentor_1.png
 imagehome: mymentor_1_home.png

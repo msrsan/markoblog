@@ -2,7 +2,7 @@
 layout: post
 title: "Applying To Techstars London: the inside story from Osper, Lingvist, Geospock and TeskaLabs"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [Techstars,Application,Startups]
 image: applyingtotechstars_1.jpeg
 imagehome: applyingtotechstars_1_home.png

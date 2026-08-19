@@ -2,7 +2,7 @@
 layout: post
 title: "Lessons Learned From The Techstars London Winter '14 Batch"
 author: "Marko Srsan"
-categories: startup
+categories: startups-vc
 tags: [Techstars,2014,VC]
 image: lessonslearned1.jpg
 imagehome: lessonslearned1_home.png

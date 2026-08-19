@@ -2,7 +2,7 @@
 layout: post
 title: "Gmail just *New-Composed* me!"
 author: "Marko Srsan"
-categories: productivity
+categories: doing
 tags: [productivity,gmail,email]
 image: gmailcompose1.jpg
 imagehome: gmailcompose1_home.png
